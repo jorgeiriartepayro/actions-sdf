@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>gh-actions-sdf</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
